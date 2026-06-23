@@ -1,0 +1,295 @@
+junction,closure_rate,prediction_accuracy,avg_prediction_error
+NagaTheaterJunc-Ulsoor,1.0,1.0,0.11176121
+BrigadeMillenium,1.0,1.0,0.049681783
+VishweswaraiahJunctio(Uttamsagar),1.0,1.0,0.009293377
+KHB Junction,1.0,0.0,0.8578879
+ColesParkJunc,1.0,1.0,0.1878022
+YediyurMeternityHospital,1.0,1.0,0.08468437
+WiproJunc-Koramangala,1.0,1.0,0.022986233
+"Trilight Circle,Race course Road",1.0,1.0,0.08767149
+UpparpetJunction,1.0,1.0,0.00852409
+MysoreRd--MadhuPetrolBunkJunction,0.75,1.0,0.08391675
+BM ShriJunc(CMH-100FtRd)Junc,0.6666666666666666,0.6666666666666666,0.3607495
+HennurRd-DavisRdJunction,0.6,0.8,0.22270179
+SwagathMainRd-EastEndRdJunc,0.5,1.0,0.054986343
+ChandrikaJunction,0.5,1.0,0.16250974
+SubedarChatramRd near SheshadripuramPS,0.5,1.0,0.19443862
+BEML GateJunc(SuranjandasRd),0.5,1.0,0.09765868
+Peenya2ndStageBusStand,0.5,0.5,0.56056786
+MaharajaJunction,0.5,0.5,0.5
+Indiranasgar13thMainJunc,0.5,1.0,0.31780168
+AnepalyaJunc,0.5,0.5,0.4450357
+KCG HospitalJunction,0.5,1.0,0.11110582
+NavarangBarJunc-Dr RajkumarRd,0.5,1.0,0.14962083
+HoodiJunction,0.5,0.6666666666666666,0.38393703
+K R MarketJunction,0.42857142857142855,0.42857142857142855,0.49362794
+SiddapuraJunction,0.4,0.4,0.5396895
+SadashivnagarJunc,0.38461538461538464,0.7692307692307693,0.34129488
+Richmond circle jn,0.36363636363636365,0.5454545454545454,0.519984
+ShankarMuttCircle,0.3333333333333333,0.6666666666666666,0.4128035
+JohnsonMarket,0.3333333333333333,1.0,0.23119117
+PlatformRdJunction,0.3333333333333333,0.3333333333333333,0.5130239
+Delmia-Jayanagar,0.3333333333333333,1.0,0.08865917
+K H Road-SiddaiahRdJunc(BMTC-BigBazaar),0.3333333333333333,0.3333333333333333,0.5091354
+"Bellandur Junction, Outer ring road",0.3333333333333333,1.0,0.26288235
+ShivanahalliJunctionWOC,0.3333333333333333,1.0,0.15180612
+AgaraJunction,0.3333333333333333,0.5,0.44857582
+Ashoknagar Junction(ShoolayCircle),0.3333333333333333,0.3333333333333333,0.60673004
+ModiBridgeJunction,0.3333333333333333,0.6666666666666666,0.33976892
+BDA Junctio-Koramangala,0.3333333333333333,1.0,0.08979233
+5thMainHSR,0.3333333333333333,1.0,0.18084805
+KrishnaFlourMill,0.3157894736842105,0.8421052631578947,0.2707185
+Arbindo Circle,0.3,0.8,0.306662
+K R Circle,0.2903225806451613,0.5806451612903226,0.49625126
+BinnyMillJunction,0.2857142857142857,0.5714285714285714,0.3706569
+TC Palya-OM RoadJunc,0.25,0.5,0.51457995
+NavarangTheatreJunction,0.25,1.0,0.050058775
+"VeerannapalyaJunction(BEL,HO)",0.23333333333333334,0.7666666666666667,0.27403226
+SubbannaJunction,0.2222222222222222,0.5555555555555556,0.42443597
+BMTCJunction-K H Road,0.2,0.4,0.48705235
+SantheCircle,0.2,0.8,0.32778975
+PotteryCircle,0.2,0.6,0.4304337
+Dr RajkumarRd-10thCrossRdJunc,0.2,1.0,0.1387801
+Krupanidhi College,0.2,0.6,0.3092588
+Shivashankara circle,0.2,0.2,0.50603133
+JP Nagar 9th cross-24th main jn,0.2,0.8,0.44675344
+HudsonCircle,0.1875,0.9375,0.30466783
+SiddalingaiahCircle,0.18181818181818182,1.0,0.32777283
+UniversityJunc(Janabharti),0.18181818181818182,0.9090909090909091,0.22164606
+RajeshwariJunc,0.18181818181818182,0.3181818181818182,0.5980988
+HoramavuJunction,0.16666666666666666,1.0,0.16045341
+BTM16thMain-ORR Junc,0.16666666666666666,0.6666666666666666,0.34394896
+UlsoorGateJunc,0.16666666666666666,1.0,0.30087683
+OperaHouseJunc,0.16666666666666666,1.0,0.2650373
+KalyanNagar-ORR Junc,0.16666666666666666,0.8333333333333334,0.23697269
+TataInstituteCircle,0.16666666666666666,0.8333333333333334,0.4048033
+"PriyadarshiniHotel,Jayamahal,RT Nagar",0.16666666666666666,1.0,0.1547374
+NIMHANS Junction,0.16666666666666666,0.5,0.5650697
+DomlurWaterTank,0.16666666666666666,0.8333333333333334,0.3857459
+SagarTheatreJunc,0.16666666666666666,0.3333333333333333,0.49826267
+BanashankariBusStandJunc,0.15384615384615385,1.0,0.039243393
+PoliceCornerJunc,0.15384615384615385,0.19230769230769232,0.6629611
+CMP GateJunc,0.15,0.85,0.24887891
+HebbalFlyoverJunc,0.14285714285714285,0.8571428571428571,0.25067508
+LeprosyhospitalJunc,0.14285714285714285,0.9523809523809523,0.15314169
+ShivajiTalkiesJunc,0.14285714285714285,0.7142857142857143,0.3558221
+RingRoad-UllalJunction,0.14285714285714285,0.42857142857142855,0.429131
+Devasandra(k r puram),0.13333333333333333,0.4666666666666667,0.5295811
+BloodBankCircle,0.13333333333333333,0.6666666666666666,0.43995592
+MinskSquare(CTO Junction),0.125,0.875,0.30590394
+SandeepUnnikrishnan-Yelhanka,0.125,1.0,0.060202345
+MaratahalliBridgeJunc,0.125,0.9375,0.15593006
+WilsonGarden12thCrossJunc,0.125,0.75,0.43980938
+OldMadrasRd-NGEF Junc,0.125,0.625,0.43770885
+BigBazaar(Whitefield)Junc,0.125,0.75,0.343836
+OldMadrasRd-80FeetRdJunc,0.125,0.875,0.38667902
+SilkBoardJunc,0.12121212121212122,1.0,0.069618545
+KanakapuraRd-RingRdJunction,0.1111111111111111,1.0,0.02051131
+KarnatakaBhavanJunction,0.1111111111111111,0.8888888888888888,0.24119186
+N R SquareJunc,0.1,0.9,0.36942062
+BucheryJunction,0.09090909090909091,1.0,0.13511343
+FTI Junction(KanteeravaStudio),0.09090909090909091,0.9090909090909091,0.32845247
+KundanahalliGateJunc,0.09090909090909091,1.0,0.20903307
+NaganathapuraJunction,0.08333333333333333,0.8333333333333334,0.25401023
+BEL Circle,0.08,0.96,0.18147957
+Batrayanapura(Amrutahalli)Junction,0.07142857142857142,1.0,0.16211078
+BilekahalliJunc,0.07142857142857142,1.0,0.014722558
+UttarahalliJunction,0.06666666666666667,1.0,0.019733058
+TownhallJunction,0.06666666666666667,0.7666666666666667,0.44989583
+Deverabeesanahalli-ORR Junc,0.06666666666666667,0.8666666666666667,0.27660373
+KIMCO Junction,0.06451612903225806,0.9354838709677419,0.21016163
+IndianExpressJunction,0.0625,0.9375,0.21605772
+Nagavara-ORR Junction,0.0625,0.90625,0.14281318
+Sumanhalli,0.0625,0.9375,0.18025498
+toll gate mysore road,0.06060606060606061,0.9090909090909091,0.17163533
+JakkurCrossJunction,0.05555555555555555,0.9444444444444444,0.17589316
+YelhankaBypass,0.05263157894736842,0.9473684210526315,0.2884907
+GoruguntepalyaJunc,0.05,0.95,0.13524894
+SRS Peenya Junc,0.05,1.0,0.09443964
+KhodaysCircle(DV UrsCircle),0.043478260869565216,1.0,0.2100635
+BigBazaarJunction(OldMadrasRd),0.038461538461538464,1.0,0.09945963
+BagalurCrossJunc,0.037037037037037035,1.0,0.084151894
+HesaraghattaJunction,0.03333333333333333,0.8,0.22712325
+YeshwanthpuraCircle,0.02631578947368421,0.8947368421052632,0.14464968
+SatteliteBusStandJunc,0.023255813953488372,0.9069767441860465,0.11923408
+AyyappaTempleJunc,0.02040816326530612,1.0,0.033909068
+MekhriCircle,0.015625,0.984375,0.058090407
+OldMadrasRd-DoubleRdJunc,0.0,1.0,0.2962763
+OldMadrasRd-BMTC DepotJunc,0.0,1.0,0.2755934
+OldMadrasRd-Indranagar100ftRdJunc,0.0,1.0,0.1906293
+TrinityCircle,0.0,1.0,0.08357629
+TumkurRdMarappanapalyaJunc,0.0,1.0,0.037674997
+TyagiHengalvarayaJunc(DickensonRd),0.0,1.0,0.24067529
+UCO Bank(Forum),0.0,1.0,0.20964113
+UrvashiJunction,0.0,1.0,0.39415804
+NationalCollege,0.0,1.0,0.108272165
+"Narayanapura cross, Hegde nagar",0.0,1.0,0.05649965
+NandiCross(RaniCross),0.0,1.0,0.26103377
+VetenaryHospitalJunc-Shivajinagar,0.0,1.0,0.18489064
+VeerasandraGateJunction,0.0,1.0,0.06965842
+Nagarbhavi,0.0,1.0,0.25915158
+OldPoliceStation-Ashoknagar,0.0,0.6,0.51474035
+VijayanagarBusStandJunction,0.0,1.0,0.13389553
+NTTF JunctionPeenya,0.0,1.0,0.3061608
+WebbsCircle,0.0,0.6666666666666666,0.4408101
+NGV RearGateJunc,0.0,1.0,0.3691303
+WilsonGarden10thCrossJunc,0.0,0.8333333333333334,0.37828577
+NCERT Junction,0.0,1.0,0.077012904
+YelhankaCircle,0.0,0.9705882352941176,0.068968035
+MysoreRd-RingRdJunc(Nayandanahallii),0.0,1.0,0.12963046
+Yemalur cross junc,0.0,0.75,0.17570093
+MotherTeressaCircle,0.0,0.9090909090909091,0.20938648
+ModiHospital,0.0,1.0,0.29944485
+OldMadrasRd-SuddaguntepalyaRdJunc,0.0,1.0,0.0915491
+TamarikannanJunc,0.0,1.0,0.27833667
+ThomasCafe-New,0.0,1.0,0.24551511
+SadahalliGateJunc(AirportRd),0.0,1.0,0.0024429753
+SagarHospitalJunc,0.0,1.0,0.09590586
+PurnimaTheaterJunc,0.0,0.875,0.28109646
+SafinaPlazaJunc,0.0,1.0,0.15362306
+PuttammaChoultryNagarbhavi,0.0,1.0,0.087258
+QueensStatueCircle,0.0,0.6666666666666666,0.30313146
+RRR(Okalipuram)Junction,0.0,1.0,0.23912771
+Rajajinagagr1stBlockJunction,0.0,1.0,0.061673462
+RamamurthyNagarJunction,0.0,1.0,0.10596061
+Rajajinagar19thMainJunc,0.0,1.0,0.05082722
+RajajinagarEntranceJunction,0.0,1.0,0.20267542
+RajarajeshwariKalyanaMantapaJunc,0.0,1.0,0.088067174
+RoyanCircle-Chamrajpete,0.0,1.0,0.3343463
+RamaiahCircle-UlsoorPoliceStation,0.0,1.0,0.115453325
+Ring road-Near Kengunte Junction,0.0,1.0,0.2773672
+PrasannaJunction,0.0,1.0,0.122547485
+SarjapurRd-St JohnsRdJunc,0.0,1.0,0.039549835
+PoliceTimmaiahCircle(GPO),0.0,1.0,0.23311317
+ShantalaJunction,0.0,1.0,0.18018872
+Shivajinagar(BRV)Junction,0.0,1.0,0.12628254
+ShivandaCircle,0.0,1.0,0.20284982
+SindhiColonyJunction,0.0,0.7777777777777778,0.20446219
+SirsiCircle,0.0,1.0,0.21615377
+SonyworldJunction,0.0,1.0,0.27669773
+South end circle,0.0,1.0,0.19784148
+Srigandakaval,0.0,1.0,0.06195881
+PeenyaPoliceStation,0.0,1.0,0.04272285
+Srinivagilu(Ejipura)Junc,0.0,0.75,0.29838958
+StateBankofMysoreJunc,0.0,1.0,0.24835972
+Peenya14thCrossJunc,0.0,1.0,0.40827787
+PES-DevegowdaCircle,0.0,1.0,0.10837289
+TVS CrossJunction,0.0,1.0,0.2766692
+MintoJunction,0.0,1.0,0.44117266
+17th Mn 1st Crs Aishwarya Stores Jn,0.0,1.0,0.3953155
+Minerva Circle,0.0,0.0,0.54325515
+DevanahalliCrossJunc,0.0,1.0,0.007472139
+CMH Rd-AdarshTheaterJunc,0.0,1.0,0.13442633
+CashPharmacyJunction,0.0,0.3333333333333333,0.4992436
+ChandraLayoutJunc-nearWaterTank,0.0,1.0,0.108768374
+ChaudrayaCircle/UdayaTVCircle(CantonmentJunc),0.0,1.0,0.15985258
+Chokasandra (Tumkur road),0.0,1.0,0.02454023
+CholurpalyaJunction(MagadiRd),0.0,1.0,0.17301841
+CoffeeBoardJunc,0.0,1.0,0.24474451
+CommandoHospitalJunc,0.0,1.0,0.16176343
+D'SouzaCircle,0.0,0.75,0.4983952
+DMRoadJunc(Basavangudi),0.0,1.0,0.21413678
+DairyCircle,0.0,0.6,0.3339979
+Devanahalli new bus stand,0.0,1.0,0.2993003
+DevangaHostelJunction,0.0,0.2,0.56487244
+MillCornerRd-SampigeRdJunc,0.0,1.0,0.14135882
+DevegowdaPetrolBunkJunc,0.0,1.0,0.027293306
+DhobiGhatJunc,0.0,1.0,0.118819274
+DickensonRd-AdigasJunc,0.0,1.0,0.31474516
+DoddaballapuraCrossJunc,0.0,1.0,0.008651329
+Dr TCM RoyanRd near AmbedkarStatue,0.0,0.9166666666666666,0.22106056
+ESI(k r puram),0.0,1.0,0.056022007
+ElectronicCityGate-2Junc,0.0,1.0,0.016832536
+EliteJunc,0.0,1.0,0.4210373
+Fire Force Junction,0.0,1.0,0.079620264
+GangammagudiJunc,0.0,1.0,0.037292678
+GarebhavipalyaJunc,0.0,1.0,0.018469665
+Geeta Circle,0.0,1.0,0.21064304
+CIL CrossJunction-JayamahalRd,0.0,1.0,0.17790796
+CID-CarltonHouseJunc,0.0,1.0,0.26480874
+Bommanahalli,0.0,0.9615384615384616,0.049011223
+BiryandCircle,0.0,1.0,0.2836032
+28thMainJayanagarJunc,0.0,1.0,0.01938496
+29thMainRdBTM LayoutJunc,0.0,1.0,0.046669688
+5thMainRPC Layout-Vijayanagar,0.0,1.0,0.2640743
+A S CharStreet-MysoreRdJunc,0.0,0.4,0.4438707
+ASC Junction,0.0,1.0,0.14433084
+AdugodiJunc,0.0,1.0,0.3079652
+AnandRaoJunction,0.0,1.0,0.4045877
+AnilKumbleCircle,0.0,0.875,0.23323977
+AnjaneyaTempleJunc,0.0,1.0,0.28783166
+ArakereGateJunc,0.0,1.0,0.031286817
+Arts&CraftsCircle,0.0,1.0,0.1621769
+AshirwadamCircle,0.0,1.0,0.27643925
+AttiguppeCircleJunction,0.0,1.0,0.31262192
+BHEL Gate,0.0,1.0,0.0059782215
+BagalakunteCrossJunction,0.0,1.0,0.07072809
+Bamboobazar(Shivajinagar),0.0,1.0,0.38358957
+BangaloreBodyBuildersJunc,0.0,1.0,0.16799878
+Basappa Circle Junction,0.0,1.0,0.46550313
+BasavamantapaJunc-Dr RajkumarRd,0.0,0.5,0.44009757
+BasaweshwaraCircle,0.0,1.0,0.3928522
+Basveshwarnagar 8th main Junction,0.0,1.0,0.07782645
+BegumMahalJunc,0.0,0.75,0.27827483
+BhadrappaLayout,0.0,1.0,0.31398007
+BhashyamCircle,0.0,1.0,0.1520117
+BhashyamCircle-SadashivNagar,0.0,1.0,0.153217
+Geethanjali jn,0.0,1.0,0.18970498
+GokuldasImagesJunc,0.0,1.0,0.079539396
+GopalGowdaJUnc,0.0,1.0,0.43815836
+KamrajRdJunction,0.0,1.0,0.17522603
+KensingtonOvalJunc,0.0,1.0,0.17301543
+KodigehalliCross,0.0,1.0,0.19278398
+KogilluCrossJunc,0.0,1.0,0.053364575
+27th Cross Jayanagar(Ganapathi Temple),0.0,1.0,0.40821683
+KoramangalaWaterTankJunc,0.0,0.9310344827586207,0.09892616
+Kudlu Gate Junc,0.0,1.0,0.03607914
+KuvempuCircle,0.0,1.0,0.18779206
+"KuvempuCircleJunc,HAL MainGate",0.0,0.0,0.63834465
+LRDE Junction,0.0,1.0,0.25124297
+LalbaghMainGateJunc,0.0,0.8333333333333334,0.40266922
+LalbaghWestGate,0.0,1.0,0.3708259
+LinkRoadMalleswaramJunc,0.0,1.0,0.2600622
+LowerAgaram(IndiaGarage)Junc,0.0,1.0,0.21336277
+MC Circle,0.0,1.0,0.11895578
+MICO Bande,0.0,1.0,0.3291769
+MS RamaiahJunc(TollGate),0.0,1.0,0.08865244
+MSRamaiahHospitalJunc,0.0,1.0,0.20337118
+MahalaxmiLayoutEntranceJunc,0.0,1.0,0.1428527
+Malleswaram18thCrossRd-SampigeRdJunc,0.0,1.0,0.13425343
+ManipalCentreJunc,0.0,1.0,0.105131924
+MarenahalliRd-18thMainRdJunc,0.0,0.5,0.38851437
+MargosaRd-18thCrossJunc,0.0,1.0,0.1500312
+Marigowda-TavarkereRdJunc,0.0,1.0,0.18591467
+MayohallJunction,0.0,0.8,0.348558
+MeenakshiMallJunc,0.0,1.0,0.01461223
+KatriguppeJunction,0.0,1.0,0.11201627
+Kammanahalli-RingRoadJunction,0.0,1.0,0.1107547
+GorappanapalyaJunction,0.0,0.0,0.72950655
+KamakyaJunction,0.0,1.0,0.022232667
+GovindapuraCross,0.0,1.0,0.43590137
+GowdanapalyaJunction,0.0,1.0,0.034337897
+HSR14thMainJunc,0.0,1.0,0.17988853
+HainsJunc,0.0,0.3333333333333333,0.41312036
+HalliThindi,0.0,1.0,0.23147196
+HennurRoad-ORR Junc,0.0,1.0,0.08280469
+HopefarmJunction,0.0,1.0,0.015145034
+HosmatJunction,0.0,0.3333333333333333,0.6068007
+HulimaveRd-BanneraghattaRdJunc,0.0,1.0,0.01569572
+HunsemarammanahalliJunction,0.0,1.0,0.0076100677
+ISRO Junction-Airport rd,0.0,1.0,0.24975412
+ISRO Junction-NewBEL Rd,0.0,1.0,0.3743304
+IbblurJunction',0.0,1.0,0.065020196
+ItmaduJunction,0.0,1.0,0.03379542
+J D MaraJunc,0.0,1.0,0.031750698
+JP Nagar 15th cross junction,0.0,0.8571428571428571,0.12191422
+JaiMuniRaoCircle,0.0,1.0,0.26090685
+Jaipuria-Adugodi,0.0,0.75,0.3325247
+JalahalliCross(SM Circle),0.0,1.0,0.04525455
+JayadevaHospitalJunc,0.0,1.0,0.048617028
+"Jayanagar 4th main,36th cross",0.0,1.0,0.2357324
+K G Junction,0.0,1.0,0.017554708
+KR Road-14thCross Junc,0.0,1.0,0.13421014
+KadirenahalliJunction,0.0,1.0,0.089893036
+Kadubeesanahalli-ORR Junc,0.0,1.0,0.170235
+KonanakunteJunction(KanakapurarRd),0.0,1.0,0.007466027

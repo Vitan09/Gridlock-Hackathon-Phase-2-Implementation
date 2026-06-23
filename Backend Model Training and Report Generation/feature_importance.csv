@@ -1,0 +1,335 @@
+Feature,Importance
+cat__event_cause_pot_holes,0.049834404
+cat__event_cause_vehicle_breakdown,0.02483533
+cat__event_cause_tree_fall,0.022708632
+cat__event_cause_accident,0.022408012
+cat__event_cause_congestion,0.020388996
+cat__junction_MekhriCircle,0.018874431
+cat__event_type_planned,0.01880452
+cat__junction_TataInstituteCircle,0.017470581
+cat__junction_MysoreRd--MadhuPetrolBunkJunction,0.016436817
+cat__zone_South Zone 1,0.015982552
+cat__junction_BangaloreBodyBuildersJunc,0.015912432
+cat__junction_RajeshwariJunc,0.015105324
+cat__zone_Central Zone 2,0.014132257
+cat__junction_SantheCircle,0.013575716
+cat__zone_West Zone 1,0.012986464
+cat__junction_TrinityCircle,0.01178664
+cat__junction_NaganathapuraJunction,0.011501191
+cat__month_February,0.010954932
+cat__junction_JalahalliCross(SM Circle),0.010831462
+cat__junction_Ashoknagar Junction(ShoolayCircle),0.010382459
+cat__junction_K R Circle,0.010103693
+cat__event_cause_water_logging,0.009817575
+cat__zone_East Zone 1,0.009592357
+cat__priority_High,0.009533328
+cat__event_cause_others,0.009113901
+cat__event_type_unplanned,0.008739563
+cat__zone_North Zone 2,0.008597705
+cat__zone_West Zone 2,0.008438456
+cat__junction_KhodaysCircle(DV UrsCircle),0.008357974
+cat__event_cause_Debris,0.008237905
+cat__junction_ShivandaCircle,0.00807924
+cat__month_November,0.007851854
+cat__junction_AgaraJunction,0.007541514
+cat__junction_JP Nagar 9th cross-24th main jn,0.007537491
+cat__junction_Richmond circle jn,0.0075373915
+cat__junction_ShivanahalliJunctionWOC,0.0074926154
+cat__junction_Shivajinagar(BRV)Junction,0.0074324063
+num__hour,0.007298938
+cat__priority_Low,0.007234718
+cat__junction_YelhankaBypass,0.0071783173
+num__longitude,0.0071666567
+cat__junction_Shivashankara circle,0.006919234
+cat__junction_PoliceCornerJunc,0.0069087828
+cat__event_cause_road_conditions,0.006789081
+cat__junction_StateBankofMysoreJunc,0.0067770896
+cat__zone_Central Zone 1,0.006735486
+cat__junction_KrishnaFlourMill,0.006680775
+cat__junction_MysoreRd-RingRdJunc(Nayandanahallii),0.006624991
+num__latitude,0.0065883445
+cat__event_cause_construction,0.0065569174
+cat__junction_YeshwanthpuraCircle,0.006540548
+cat__junction_Arbindo Circle,0.0064672204
+cat__junction_SatteliteBusStandJunc,0.0063763554
+cat__junction_Marigowda-TavarkereRdJunc,0.0062404857
+cat__junction_BloodBankCircle,0.006155579
+cat__junction_CMP GateJunc,0.0060901335
+cat__zone_South Zone 2,0.0059955437
+cat__junction_SRS Peenya Junc,0.0059701223
+cat__junction_GoruguntepalyaJunc,0.0059011057
+cat__zone_North Zone 1,0.005896793
+cat__junction_SubedarChatramRd near SheshadripuramPS,0.0057899533
+cat__junction_KIMCO Junction,0.005786451
+cat__junction_Peenya2ndStageBusStand,0.005761558
+cat__junction_toll gate mysore road,0.005743285
+cat__day_name_Tuesday,0.0056341523
+cat__junction_JakkurCrossJunction,0.005583915
+cat__junction_OperaHouseJunc,0.005455038
+cat__junction_WilsonGarden12thCrossJunc,0.0053153154
+cat__month_January,0.00528274
+cat__junction_ShantalaJunction,0.0051950947
+cat__junction_KundanahalliGateJunc,0.005119963
+cat__junction_DomlurWaterTank,0.00504179
+cat__junction_Devasandra(k r puram),0.0050303163
+cat__event_cause_procession,0.0049294555
+cat__junction_MotherTeressaCircle,0.004867791
+cat__junction_SadahalliGateJunc(AirportRd),0.0048650713
+cat__zone_East Zone 2,0.0047786343
+cat__junction_PurnimaTheaterJunc,0.0047426657
+cat__junction_SandeepUnnikrishnan-Yelhanka,0.0047276765
+cat__junction_SiddalingaiahCircle,0.004637558
+cat__junction_CID-CarltonHouseJunc,0.0045169285
+cat__junction_NavarangBarJunc-Dr RajkumarRd,0.004493852
+cat__junction_K R MarketJunction,0.0044767484
+cat__junction_UlsoorGateJunc,0.0044625723
+num__is_peak_hour,0.0044463445
+cat__junction_RingRoad-UllalJunction,0.004383308
+cat__junction_HoodiJunction,0.004368974
+cat__junction_K H Road-SiddaiahRdJunc(BMTC-BigBazaar),0.004339304
+cat__junction_Dr TCM RoyanRd near AmbedkarStatue,0.004275752
+cat__junction_SiddapuraJunction,0.0042693582
+cat__junction_BM ShriJunc(CMH-100FtRd)Junc,0.004249509
+cat__junction_OldMadrasRd-80FeetRdJunc,0.0041990452
+cat__junction_AnepalyaJunc,0.004155408
+cat__junction_BiryandCircle,0.004119192
+cat__junction_BEL Circle,0.004114681
+cat__junction_TownhallJunction,0.004061464
+cat__junction_OldMadrasRd-Indranagar100ftRdJunc,0.003998981
+cat__junction_BanashankariBusStandJunc,0.003990282
+cat__junction_PoliceTimmaiahCircle(GPO),0.003981645
+cat__junction_AyyappaTempleJunc,0.003907939
+cat__junction_ISRO Junction-Airport rd,0.0038981051
+cat__junction_ColesParkJunc,0.0038311323
+num__is_weekend,0.0037466015
+cat__junction_SilkBoardJunc,0.003719741
+cat__junction_SadashivnagarJunc,0.0036110024
+cat__junction_PlatformRdJunction,0.0035986293
+cat__junction_BilekahalliJunc,0.0035923375
+cat__junction_HudsonCircle,0.0035743138
+cat__junction_Deverabeesanahalli-ORR Junc,0.0035319673
+cat__junction_HesaraghattaJunction,0.0035219043
+cat__junction_Nagavara-ORR Junction,0.003476738
+cat__event_cause_public_event,0.00347043
+"cat__junction_VeerannapalyaJunction(BEL,HO)",0.0034284547
+cat__junction_BMTCJunction-K H Road,0.003302039
+cat__junction_BigBazaarJunction(OldMadrasRd),0.0032905817
+cat__junction_BagalurCrossJunc,0.0032675548
+cat__junction_FTI Junction(KanteeravaStudio),0.0032226068
+cat__junction_Kadubeesanahalli-ORR Junc,0.003203267
+cat__junction_MaharajaJunction,0.003174781
+cat__event_cause_protest,0.0031366348
+cat__junction_KarnatakaBhavanJunction,0.0031285444
+cat__junction_Ring road-Near Kengunte Junction,0.0031184189
+cat__junction_Batrayanapura(Amrutahalli)Junction,0.0030993456
+cat__junction_Sumanhalli,0.003094114
+cat__junction_IndianExpressJunction,0.0030509813
+cat__junction_NavarangTheatreJunction,0.0029502856
+cat__junction_OldMadrasRd-NGEF Junc,0.0029346407
+cat__junction_SagarTheatreJunc,0.0029063937
+cat__junction_MICO Bande,0.0028492329
+cat__junction_BinnyMillJunction,0.00284223
+cat__junction_Krupanidhi College,0.0028411835
+cat__junction_HebbalFlyoverJunc,0.0027626455
+cat__junction_BucheryJunction,0.0027342334
+cat__junction_PotteryCircle,0.0026045004
+cat__junction_UrvashiJunction,0.0025864989
+cat__junction_LalbaghMainGateJunc,0.0024936998
+cat__junction_NIMHANS Junction,0.0024293885
+cat__month_March,0.0023804384
+cat__junction_N R SquareJunc,0.002365986
+cat__junction_LeprosyhospitalJunc,0.0023635386
+"cat__junction_Trilight Circle,Race course Road",0.002297103
+cat__junction_HennurRd-DavisRdJunction,0.0021850823
+"cat__junction_PriyadarshiniHotel,Jayamahal,RT Nagar",0.0021773002
+cat__junction_ShivajiTalkiesJunc,0.0021771528
+cat__junction_KodigehalliCross,0.0021386505
+cat__junction_EliteJunc,0.0020520207
+cat__event_cause_vip_movement,0.0020321032
+cat__junction_Nagarbhavi,0.0020223868
+cat__junction_AnandRaoJunction,0.0019897746
+cat__junction_KoramangalaWaterTankJunc,0.0019848794
+cat__junction_GokuldasImagesJunc,0.0019761743
+cat__junction_JohnsonMarket,0.001899683
+cat__junction_YelhankaCircle,0.0018750656
+cat__junction_MaratahalliBridgeJunc,0.0017897019
+cat__junction_MinskSquare(CTO Junction),0.0016715975
+cat__junction_UttarahalliJunction,0.0015455203
+cat__junction_BigBazaar(Whitefield)Junc,0.0013999771
+cat__junction_UniversityJunc(Janabharti),0.0010970412
+"cat__junction_Bellandur Junction, Outer ring road",0.00079774053
+cat__junction_SubbannaJunction,0.00034954768
+cat__day_name_Saturday,0.00029536246
+cat__junction_BasaweshwaraCircle,0.0
+cat__junction_BhashyamCircle,0.0
+cat__junction_BhashyamCircle-SadashivNagar,0.0
+cat__junction_SindhiColonyJunction,0.0
+cat__junction_BhadrappaLayout,0.0
+cat__junction_BegumMahalJunc,0.0
+cat__junction_SonyworldJunction,0.0
+cat__junction_South end circle,0.0
+cat__junction_Srigandakaval,0.0
+cat__junction_Srinivagilu(Ejipura)Junc,0.0
+cat__junction_Basveshwarnagar 8th main Junction,0.0
+cat__junction_SirsiCircle,0.0
+cat__junction_ItmaduJunction,0.0
+cat__junction_Bommanahalli,0.0
+cat__junction_ChaudrayaCircle/UdayaTVCircle(CantonmentJunc),0.0
+cat__junction_RajajinagarEntranceJunction,0.0
+cat__junction_D'SouzaCircle,0.0
+cat__junction_RamaiahCircle-UlsoorPoliceStation,0.0
+cat__junction_RamamurthyNagarJunction,0.0
+cat__junction_CommandoHospitalJunc,0.0
+cat__junction_CoffeeBoardJunc,0.0
+cat__junction_CholurpalyaJunction(MagadiRd),0.0
+cat__junction_RoyanCircle-Chamrajpete,0.0
+cat__junction_Chokasandra (Tumkur road),0.0
+cat__junction_ChandrikaJunction,0.0
+cat__junction_SwagathMainRd-EastEndRdJunc,0.0
+cat__junction_SafinaPlazaJunc,0.0
+cat__junction_SagarHospitalJunc,0.0
+cat__junction_ChandraLayoutJunc-nearWaterTank,0.0
+cat__junction_CashPharmacyJunction,0.0
+cat__junction_CMH Rd-AdarshTheaterJunc,0.0
+cat__junction_SarjapurRd-St JohnsRdJunc,0.0
+cat__junction_CIL CrossJunction-JayamahalRd,0.0
+cat__junction_ShankarMuttCircle,0.0
+cat__junction_BrigadeMillenium,0.0
+cat__junction_BasavamantapaJunc-Dr RajkumarRd,0.0
+cat__junction_ThomasCafe-New,0.0
+cat__junction_TC Palya-OM RoadJunc,0.0
+cat__junction_TVS CrossJunction,0.0
+cat__junction_AshirwadamCircle,0.0
+cat__junction_Arts&CraftsCircle,0.0
+cat__event_cause_Fog / Low Visibility,0.0
+cat__junction_ArakereGateJunc,0.0
+cat__day_name_Friday,0.0
+cat__day_name_Monday,0.0
+cat__day_name_Sunday,0.0
+cat__day_name_Thursday,0.0
+cat__junction_AnjaneyaTempleJunc,0.0
+cat__day_name_Wednesday,0.0
+cat__month_April,0.0
+cat__month_December,0.0
+cat__junction_AnilKumbleCircle,0.0
+cat__junction_AdugodiJunc,0.0
+cat__junction_ASC Junction,0.0
+cat__junction_A S CharStreet-MysoreRdJunc,0.0
+cat__junction_5thMainRPC Layout-Vijayanagar,0.0
+cat__junction_5thMainHSR,0.0
+cat__junction_29thMainRdBTM LayoutJunc,0.0
+cat__junction_Yemalur cross junc,0.0
+cat__junction_BDA Junctio-Koramangala,0.0
+cat__junction_YediyurMeternityHospital,0.0
+cat__junction_BagalakunteCrossJunction,0.0
+cat__junction_TamarikannanJunc,0.0
+cat__event_cause_debris,0.0
+cat__junction_Rajajinagagr1stBlockJunction,0.0
+cat__junction_Basappa Circle Junction,0.0
+cat__junction_Bamboobazar(Shivajinagar),0.0
+cat__junction_TumkurRdMarappanapalyaJunc,0.0
+cat__junction_TyagiHengalvarayaJunc(DickensonRd),0.0
+cat__junction_UCO Bank(Forum),0.0
+cat__junction_UpparpetJunction,0.0
+cat__junction_WiproJunc-Koramangala,0.0
+cat__junction_BTM16thMain-ORR Junc,0.0
+cat__junction_BHEL Gate,0.0
+cat__junction_VeerasandraGateJunction,0.0
+cat__junction_VetenaryHospitalJunc-Shivajinagar,0.0
+cat__junction_VijayanagarBusStandJunction,0.0
+cat__junction_WebbsCircle,0.0
+cat__junction_WilsonGarden10thCrossJunc,0.0
+cat__junction_BEML GateJunc(SuranjandasRd),0.0
+cat__junction_Rajajinagar19thMainJunc,0.0
+cat__junction_PrasannaJunction,0.0
+cat__junction_RRR(Okalipuram)Junction,0.0
+cat__junction_KanakapuraRd-RingRdJunction,0.0
+cat__junction_KatriguppeJunction,0.0
+cat__junction_KogilluCrossJunc,0.0
+cat__junction_KonanakunteJunction(KanakapurarRd),0.0
+cat__junction_HalliThindi,0.0
+cat__junction_Kudlu Gate Junc,0.0
+cat__junction_HainsJunc,0.0
+cat__junction_KuvempuCircle,0.0
+"cat__junction_KuvempuCircleJunc,HAL MainGate",0.0
+cat__junction_LRDE Junction,0.0
+cat__junction_HSR14thMainJunc,0.0
+cat__junction_LalbaghWestGate,0.0
+cat__junction_28thMainJayanagarJunc,0.0
+cat__junction_LinkRoadMalleswaramJunc,0.0
+cat__junction_LowerAgaram(IndiaGarage)Junc,0.0
+cat__junction_MC Circle,0.0
+cat__junction_GovindapuraCross,0.0
+cat__junction_MS RamaiahJunc(TollGate),0.0
+cat__junction_MSRamaiahHospitalJunc,0.0
+cat__junction_MahalaxmiLayoutEntranceJunc,0.0
+cat__junction_HennurRoad-ORR Junc,0.0
+cat__junction_KamrajRdJunction,0.0
+cat__junction_Malleswaram18thCrossRd-SampigeRdJunc,0.0
+cat__junction_Kammanahalli-RingRoadJunction,0.0
+cat__junction_JP Nagar 15th cross junction,0.0
+cat__junction_Indiranasgar13thMainJunc,0.0
+cat__junction_JaiMuniRaoCircle,0.0
+cat__junction_Jaipuria-Adugodi,0.0
+cat__junction_IbblurJunction',0.0
+cat__junction_ISRO Junction-NewBEL Rd,0.0
+cat__junction_JayadevaHospitalJunc,0.0
+"cat__junction_Jayanagar 4th main,36th cross",0.0
+cat__junction_K G Junction,0.0
+cat__junction_HunsemarammanahalliJunction,0.0
+cat__junction_HulimaveRd-BanneraghattaRdJunc,0.0
+cat__junction_HosmatJunction,0.0
+cat__junction_KCG HospitalJunction,0.0
+cat__junction_HoramavuJunction,0.0
+cat__junction_KR Road-14thCross Junc,0.0
+cat__junction_KadirenahalliJunction,0.0
+cat__junction_HopefarmJunction,0.0
+cat__junction_KalyanNagar-ORR Junc,0.0
+cat__junction_KamakyaJunction,0.0
+cat__junction_GorappanapalyaJunction,0.0
+cat__junction_ManipalCentreJunc,0.0
+cat__junction_QueensStatueCircle,0.0
+cat__junction_ElectronicCityGate-2Junc,0.0
+cat__junction_Dr RajkumarRd-10thCrossRdJunc,0.0
+cat__junction_OldMadrasRd-BMTC DepotJunc,0.0
+cat__junction_OldMadrasRd-DoubleRdJunc,0.0
+cat__junction_DoddaballapuraCrossJunc,0.0
+cat__junction_DhobiGhatJunc,0.0
+cat__junction_OldMadrasRd-SuddaguntepalyaRdJunc,0.0
+cat__junction_OldPoliceStation-Ashoknagar,0.0
+cat__junction_DevegowdaPetrolBunkJunc,0.0
+cat__junction_PES-DevegowdaCircle,0.0
+cat__junction_Peenya14thCrossJunc,0.0
+cat__junction_DevangaHostelJunction,0.0
+cat__junction_PeenyaPoliceStation,0.0
+cat__junction_DevanahalliCrossJunc,0.0
+cat__junction_Devanahalli new bus stand,0.0
+cat__junction_Delmia-Jayanagar,0.0
+cat__junction_DairyCircle,0.0
+cat__junction_J D MaraJunc,0.0
+cat__junction_DMRoadJunc(Basavangudi),0.0
+cat__junction_PuttammaChoultryNagarbhavi,0.0
+cat__junction_ESI(k r puram),0.0
+cat__junction_NationalCollege,0.0
+cat__junction_MarenahalliRd-18thMainRdJunc,0.0
+"cat__junction_Narayanapura cross, Hegde nagar",0.0
+cat__junction_MargosaRd-18thCrossJunc,0.0
+cat__junction_GopalGowdaJUnc,0.0
+cat__junction_MayohallJunction,0.0
+cat__junction_MeenakshiMallJunc,0.0
+cat__event_cause_test_demo,0.0
+cat__junction_MillCornerRd-SampigeRdJunc,0.0
+cat__junction_Minerva Circle,0.0
+cat__junction_MintoJunction,0.0
+cat__junction_ModiBridgeJunction,0.0
+cat__junction_ModiHospital,0.0
+cat__junction_Geethanjali jn,0.0
+cat__junction_Geeta Circle,0.0
+cat__junction_GarebhavipalyaJunc,0.0
+cat__junction_NCERT Junction,0.0
+cat__junction_NGV RearGateJunc,0.0
+cat__junction_GangammagudiJunc,0.0
+cat__junction_NTTF JunctionPeenya,0.0
+cat__junction_Fire Force Junction,0.0
+cat__junction_NandiCross(RaniCross),0.0
+cat__junction_17th Mn 1st Crs Aishwarya Stores Jn,0.0
