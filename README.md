@@ -70,6 +70,8 @@ GridLock AI includes an interactive Streamlit dashboard that acts as a traffic c
 
 Provides a city-wide overview of traffic risk, event activity, and congestion indicators.
 
+assets/Traffic Command Centre1.png
+
 ### 🤖 Event Impact Prediction
 
 Forecasts traffic disruption severity and closure probability based on event characteristics.
